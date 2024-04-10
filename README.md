@@ -1,4 +1,4 @@
-<h1>Readme</h1>
+<h1>Prawn's Windows Product Key Finder</h1>
 <h2>Overview</h2>
 This is a tool programmed with Python for retrieving the Windows product key from either the local computer or an external OS drive by searching the Windows Registry, and retrieving the product key.
 
