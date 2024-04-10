@@ -10,7 +10,7 @@ If you have any suggestions for it, put it in the <a href="https://github.com/pr
 Some example use-cases for retrieving the product key:
 <ul>
   <li>Backing up Windows version keys</li>
-  <li>Migrating the same Windows version from a dead/old/external PC to another PC or OS</li>
+  <li>Migrating the same Windows version from a dead/old PC to another PC or OS</li>
   <li>Windows 11 Pro gives a free upgrade to Windows 10 Pro, if you need the key for that but have it on another system.</li>
 </ul>
 
