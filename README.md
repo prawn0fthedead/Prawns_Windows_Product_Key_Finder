@@ -1,6 +1,6 @@
 <h1>Prawn's Windows Product Key Finder</h1>
 <h2>Overview</h2>
-This is a tool programmed with Python for retrieving the Windows product key from either the local computer or an external OS drive by searching the Windows Registry, and retrieving the product key.
+This is a tool designed to retrieve the Windows product key from either your local/current computer or an external OS drive by searching its Windows Registry, and retrieving the product key.
 
 This is a simple program, just download and run. No bloatware, no fancy stuff, no cost, it's free and (hopefully) easy to use. 
 If you have any suggestions for it, put it in the <a href="https://github.com/prawn0fthedead/Prawns_Windows_Product_Key_Finder/issues">Issues</a> tab.
