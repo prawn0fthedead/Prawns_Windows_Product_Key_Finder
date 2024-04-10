@@ -5,7 +5,7 @@ This is a tool programmed with Python for retrieving the Windows product key fro
 This is a simple program, just download and run. No bloatware, no fancy stuff, no cost, it's free and (hopefully) easy to use. 
 If you have any suggestions for it, put it in the <a href="https://github.com/prawn0fthedead/Prawns_Windows_Product_Key_Finder/issues">Issues</a> tab.
 
-This has only been tested for Windows 10, so Windows 11 and/or other versions may not work.
+<b>Note</b>: This has only been tested for Windows 10, so Windows 11 and/or other versions may not work.
 
 Some example use-cases for retrieving the product key:
 <ul>
